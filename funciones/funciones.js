@@ -348,7 +348,7 @@ console.log("Error");
     }
     });
 }else{
-var count = 6;
+var count = 60;
 var counter = setInterval(timer, 1000);
 var minutosFaltantes=(parseInt(timersCount))-1;
 var minutosTranscurridos=(parseInt(datos.minutos - timersCount))+1;
